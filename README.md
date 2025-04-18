@@ -17,7 +17,7 @@
 - [**Hollow Depths**](https://github.com/jonasz-lazar-pwr/hollow-depths-game/) — Pixel-art exploration game developed with Godot Engine (GDScript).
 
 ## 🛠️ Tech Stack
-**Programming:**  
+**Programming Skills:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=fff)
