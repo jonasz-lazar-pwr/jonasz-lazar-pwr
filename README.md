@@ -51,7 +51,7 @@
 ### Tools & Testing
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postman/postman-original.svg" width="40" alt="Postman" title="Postman" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytest/pytest-original-wordmark.svg" width="40" alt="Pytest" title="Pytest" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytest/pytest-original-wordmark.svg" width="70" alt="Pytest" title="Pytest" />
 </div>
 
 ## 🏆 Certifications
