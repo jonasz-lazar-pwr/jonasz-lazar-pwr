@@ -50,13 +50,13 @@
 
 ### Tools & Testing
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postman/postman-original.svg" width="40" alt="Postman" title="Postman" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytest/pytest-original-wordmark.svg" width="40" alt="Pytest" title="Pytest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code" />
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" alt="PyCharm" title="PyCharm" />
   <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width="40" alt="CLion" title="CLion" />
   <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="40" alt="WebStorm" title="WebStorm" />
   <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" width="40" alt="DataGrip" title="DataGrip" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postman/postman-original.svg" width="40" alt="Postman" title="Postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytest/pytest-original-wordmark.svg" width="40" alt="Pytest" title="Pytest" />
 </div>
 
 ## 🏆 Certifications
