@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nginx/nginx-original.svg" width="40" alt="NGINX" title="NGINX" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" alt="AWS" title="Amazon Web Services" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" alt="AWS" title="Amazon Web Services" />
 </div>
 
 ## 🏆 Certifications
