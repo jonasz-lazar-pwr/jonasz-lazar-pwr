@@ -49,10 +49,10 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB" title="MATLAB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Pandas_logo.svg" width="80" alt="pandas" title="pandas" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" width="60" alt="pandas" title="pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" alt="scikit-learn" title="scikit-learn" />
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" alt="matplotlib" title="matplotlib" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" width="60" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="60" alt="matplotlib" title="matplotlib" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Weka_logo.png" width="40" alt="Weka" title="Weka" />
 </div>
 
