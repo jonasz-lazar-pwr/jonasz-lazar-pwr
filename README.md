@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="60" alt="RabbitMQ" title="RabbitMQ" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rabbitmq/rabbitmq-original.svg" width="40" alt="RabbitMQ" title="RabbitMQ" />
 </div>
 
 ### Cloud & DevOps
