@@ -44,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nginx/nginx-original.svg" width="40" alt="NGINX" title="NGINX" />
 </div>
 
 ## 🏆 Certifications
