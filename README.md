@@ -10,7 +10,7 @@
 - 🏐 Big fan of **volleyball**, **hiking**, and **running**!
 
 ## 🔭 Currently Working On
-- [**Messenger App**](https://github.com/jonasz-lazar-pwr/messenger-app/) — Full-stack chat application built with Angular, FastAPI, AWS, and Terraform.
+- [**Messenger App**](https://github.com/jonasz-lazar-pwr/messenger-app/) — Project of chat application (Angular, FastAPI, AWS, Docker, Terraform, Fargate).
 - [**Restaurant Ordering System**](https://github.com/jonasz-lazar-pwr/isi-project/) — Microservices-based restaurant automation system (FastAPI, Kong, RabbitMQ).
 - [**Hollow Depths**](https://github.com/jonasz-lazar-pwr/hollow-depths-game/) — Pixel-art exploration game developed with Godot Engine (GDScript).
 - [**Data Analysis**](https://github.com/jonasz-lazar-pwr/data-analysis/) — Collection of exercises and scripts in MATLAB, Python, and Weka focused on statistical data analysis.
@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="SQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB" title="MATLAB" />
 </div>
 
 ### Web Development
@@ -34,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="60" alt="RabbitMQ" title="RabbitMQ" />
 </div>
 
 ### Cloud & DevOps
@@ -42,18 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-</div>
-
-### Data Analysis
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB" title="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" width="60" alt="pandas" title="pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" width="60" alt="scikit-learn" title="scikit-learn" />
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="60" alt="matplotlib" title="matplotlib" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Weka_logo.png" width="40" alt="Weka" title="Weka" />
 </div>
 
 ## 🏆 Certifications
