@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🎓 Applied Computer Science student.
-- 🎥 Passionate about **filmmaking**, **video editing**, and **event hosting**.
+- 🎥 Passionate about **filmmaking** and **video editing**.
 - 🏐 Big fan of **volleyball**, **hiking**, and **running**!
 
 ## 🔭 Currently Working On
