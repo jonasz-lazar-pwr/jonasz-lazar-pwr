@@ -1,7 +1,7 @@
-<h2 align="center">Hi there, I'm Jonasz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
+<h2 align="center">Hi there, I'm Jonasz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 <p align="center">
-  Software Engineer | Cloud & DevOps Enthusiast | Full-stack Developer
+  CS Student • Full-Stack Developer • Cloud & DevOps Enthusiast
 </p>
 
 ## 🚀 About Me
