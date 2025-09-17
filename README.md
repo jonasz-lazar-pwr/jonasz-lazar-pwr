@@ -11,8 +11,7 @@ I’m a Master’s student in **Applied Computer Science** with over 10 years of
 I enjoy building tools that solve real problems, especially cloud-native systems and modern web apps. ⚙️
 
 Outside of tech, I’m passionate about **team building** and creating environments where people grow together. 🤝  
-I regularly host events as a **master of ceremonies** 🎤 and enjoy telling human stories through wedding films and short documentaries. 🎬  
-To stay balanced, I spend time outdoors. I run 🏃 and go trekking in the mountains ⛰️.
+I regularly host events as a **master of ceremonies** 🎤 and enjoy telling human stories through wedding films and short documentaries. 🎬 To stay balanced, I spend time outdoors. I run 🏃 and go trekking in the mountains ⛰️.
 
 
 ## 🚀 Projects I’m Proud Of
